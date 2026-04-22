@@ -63,4 +63,17 @@ Option 2: Compile manually
 javac -d . $(find src -name "*.java")
 java com.biocleaner.MainApp
 
+Key Highlights
+Modular architecture with separate packages
+Interactive Swing UI with JTable
+Bioinformatics features such as GC content, ORF detection, and translation
+Handles inconsistent and messy CSV data
+Designed for academic demonstration and learning
+
+Author
+Developed as a bioinformatics mini-project using Java Swing.
+
+License
+This project is intended for educational use.
+
 
